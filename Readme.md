@@ -1,4 +1,4 @@
-# 📌 AI-Powered Stock & Search API with Phidata
+# 📌 AI-Powered Stock & Search API with Phi data
 
 ## 🚀 Project Overview
 This project is a FastAPI-based application that integrates **Phidata** to manage workflows, **yfinance** to fetch stock data, **duckduckgo-search** for web search, and **Groq AI** for AI-generated responses. The application is designed to be deployed using Phidata, with support for Docker and Kubernetes.
